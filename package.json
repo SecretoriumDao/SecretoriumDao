@@ -12,10 +12,7 @@
   "dependencies": {
     "ethers": "^6.13.2",
     "lucide-react": "^0.446.0",
-    "@radix-ui/react-button": "^1.1.0",
-    "@radix-ui/react-card": "^1.1.0",
     "@radix-ui/react-dialog": "^1.1.1",
-    "@radix-ui/react-input": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
